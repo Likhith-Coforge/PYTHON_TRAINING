@@ -1,4 +1,3 @@
-# activity_2
 print("Hello, world!")
 print("Hello,\nworld!")
 
@@ -9,15 +8,6 @@ print("Done")
 name = "Anand"
 marks = 95
 print(f"Name: {name} Marks: {marks}")
-
-print("5","4","3","2","1","Liftoff!",sep="-->")
-
-print(5,4,3,2,1,"Liftoff!",sep="-->")
-
-print("hello","world","python")
-
-print("hello")
-print("world")
 
 print("start:",end=".....")
 print("end")
@@ -45,3 +35,7 @@ print(a,b,c,d,e)
 
 f1,f2,f3,f4=map(float,input('enter 4 numbers: ').split(','))
 print(f1,f2,f3,f4)
+
+x,y=map(float,input('enter two numbers: ').split(' '))
+print(x,y)
+print(type(x))
