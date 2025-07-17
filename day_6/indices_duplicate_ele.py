@@ -1,5 +1,5 @@
 tpl = tuple(map(int,input().split(' ')))
-key = int(input())
+key = int(input('Enter the element to be searched for its index: '))
 idx = ""
 rotation_val=0
 for i in range(len(tpl)):
