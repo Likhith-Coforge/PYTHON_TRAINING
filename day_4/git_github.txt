@@ -1,0 +1,3 @@
+--> Learnt about git and GitHub.
+--> Practiced git commands, created GitHub repo.
+--> Pushed local repos to remote.
