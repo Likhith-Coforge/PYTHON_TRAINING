@@ -1,0 +1,7 @@
+alice
+bob
+Charlie
+David
+
+john
+kali
