@@ -1,0 +1,12 @@
+   Month  Flights Operated  Passengers Carried  Target Passengers
+3    Apr               NaN            140000.0             145000
+4    May            1350.0                 NaN             160000
+10   Nov               NaN            155000.0             154000
+11   Dec            1400.0                 NaN             160000
+15   Apr            1300.0                 NaN             146000
+17   Jun               NaN            171000.0             166000
+23   Dec               NaN            161000.0             161000
+25   Feb            1270.0                 NaN             157000
+26   Mar               NaN            152000.0             154000
+30   Jul            1320.0                 NaN             152000
+40   May            1380.0                 NaN             163000
